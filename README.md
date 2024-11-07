@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nadir2225)](https://github.com/Nadir2225/github-profile-trophy)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nadir2225&show_icons=true&theme=radical)
+
