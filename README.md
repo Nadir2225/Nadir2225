@@ -1,4 +1,7 @@
-<img src="https://github.com/user-attachments/assets/e1885bbf-0d98-418a-b461-bff6729ec267" width="400px" />
+<div style="display: flex; width: 100px; justify-content: center; color: blue;">
+  hhh
+</div>
+  <img src="./my.gif" width="400px" style="text-align: center" />
 
 ## Hi there 👋
 
