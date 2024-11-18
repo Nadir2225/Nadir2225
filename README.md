@@ -21,7 +21,7 @@ Hi <img src="https://github.com/user-attachments/assets/eca030c6-0c40-4a71-b65a-
 # Skills
 <div align="center">
   <h3>Front-End</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,mui" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,next,tailwind,mui" />
   <h3>Back-End</h3>
   <img src="https://skillicons.dev/icons?i=php,express,nodejs,python" />
   <h3>Android Dev</h3>
