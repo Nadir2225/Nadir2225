@@ -26,7 +26,7 @@ Hi <img src="https://github.com/user-attachments/assets/eca030c6-0c40-4a71-b65a-
   <img src="https://skillicons.dev/icons?i=php,express,nodejs,python" />
   <h3>Android Dev</h3>
   <img src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" height="47px" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter" />
   <h3>Database</h3>
   <img src="https://skillicons.dev/icons?i=mysql,firebase" />
   <h3>Game Dev</h3>
