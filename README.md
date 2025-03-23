@@ -49,7 +49,7 @@ Hi <img src="https://github.com/user-attachments/assets/eca030c6-0c40-4a71-b65a-
 <br>
 
 # Portfolio
-my personal portfolio: <a href="https://portfolio-d11c5.web.app/">https://portfolio-d11c5.web.app/</a>
+my personal portfolio: <a href="https://nadir-elouadghiri.vercel.app/">https://nadir-elouadghiri.vercel.app/</a>
 
 <br>
 
